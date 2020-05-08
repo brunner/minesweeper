@@ -1,5 +1,3 @@
-# Minesweeper
-
 Name: Joseph Brunner
 
 Email: jbrunner@u.rochester.edu
@@ -13,28 +11,28 @@ Included Files:
 README.txt: This file.
 
 MinesweeperGame.java: MinesweeperGame creates a frame and a canvas, and then 
-  constructs a thread that will run the game.
+	constructs a thread that will run the game.
 
 MinesweeperLoop.java: MinesweeperLoop constructs a threaded object that 
-  continuously runs and updates itself, to display the most current image
-  to the user.  It responds to user input through the mouse using 
-  MouseListeners and MouseMotionListeners.
+	continuously runs and updates itself, to display the most current image
+	to the user.  It responds to user input through the mouse using 
+	MouseListeners and MouseMotionListeners.
 
 Background.java: Background represents the "background" of the window and 
-  displays all of the information in and regarding the game, such as the 
-  actual puzzle, the statistics, and the option buttons.
+	displays all of the information in and regarding the game, such as the 
+	actual puzzle, the statistics, and the option buttons.
 
 FileIn.java: FileIn constructs an object that stores information about a given 
-  file located within the project.  FileIn is used with reading in files.
+	file located within the project.  FileIn is used with reading in files.
 
 FileOut.java: FileOut constructs an object that stores information about a given
-  file located within the project.  FileOut is used with writing to a file.
+	file located within the project.  FileOut is used with writing to a file.
 
 timeDataEasy.txt, timeDataMedium.txt, timeDataHard.txt: Files that hold low scores
-  for each difficulty mode and are written to and read from in the program.
-  
+	for each difficulty mode and are written to and read from in the program.
+	
 3BVDataEasy.txt, 3BVDataMedium.txt, 3BVDataHard.txt: Files that hold high scores
-  for each difficulty mode and are written to and read from in the program.
+	for each difficulty mode and are written to and read from in the program.
 
 Project Write-up:
 
