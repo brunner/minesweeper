@@ -1,5 +1,8 @@
 # Minesweeper
 
+This is code I first wrote in 2010 during high school, later submitted as a
+final project in my intro to computer science class at University of Rochester.
+
 ## Description
 This project mimics the game Minesweeper using an Active Rendering technique.
 All graphics are self-drawn, which I felt gave me greater control and increased
